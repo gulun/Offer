@@ -1,0 +1,794 @@
+TGuideDemo
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Info.plist GuideDemo/GuideDemo-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/ResourceRules.plist
+cProcessPCH /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/PrecompiledHeaders/GuideDemo-Prefix-axegdywskwjsgaaobusjvigqwryz/GuideDemo-Prefix.pch.pth GuideDemo/GuideDemo-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/AppDelegate.o /Users/lishuai/workspace/GuideDemo/GuideDemo/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/FirstView.o /Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/main.o /Users/lishuai/workspace/GuideDemo/GuideDemo/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GuideImageView.o /Users/lishuai/workspace/GuideDemo/GuideDemo/View/GuideImageView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GDGuideVC.o /Users/lishuai/workspace/GuideDemo/GuideDemo/Common/GDGuideVC.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/ViewController.o /Users/lishuai/workspace/GuideDemo/GuideDemo/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/SecondView.o /Users/lishuai/workspace/GuideDemo/GuideDemo/View/SecondView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/ThirdView.o /Users/lishuai/workspace/GuideDemo/GuideDemo/View/ThirdView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GDGuideView.o /Users/lishuai/workspace/GuideDemo/GuideDemo/Common/GDGuideView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/GuideDemo normal armv7s
+cGenerateDSYMFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app.dSYM /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/GuideDemo
+cCopyStringsFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/en.lproj/InfoPlist.strings GuideDemo/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default.png GuideDemo/Default.png
+cCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default@2x.png GuideDemo/Default@2x.png
+cCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default-568h@2x.png GuideDemo/Default-568h@2x.png
+cCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/bg.png GuideDemo/Resources/Images/bg.png
+cCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/login.png GuideDemo/Resources/Images/login.png
+cCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/logo.png GuideDemo/Resources/Images/logo.png
+cCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/maidi.png GuideDemo/Resources/Images/maidi.png
+cCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/point.png GuideDemo/Resources/Images/point.png
+cCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/slogan.png GuideDemo/Resources/Images/slogan.png
+cCompileStoryboard /Users/lishuai/workspace/GuideDemo/GuideDemo/en.lproj/MainStoryboard_iPad.storyboard
+cCompileStoryboard /Users/lishuai/workspace/GuideDemo/GuideDemo/en.lproj/MainStoryboard_iPhone.storyboard
+cCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_1.png GuideDemo/Resources/Images/guide_1.png
+cCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_2.png GuideDemo/Resources/Images/guide_2.png
+cCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_3.png GuideDemo/Resources/Images/guide_3.png
+cCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_4.png GuideDemo/Resources/Images/guide_4.png
+cProcessProductPackaging "/Users/lishuai/Library/MobileDevice/Provisioning Profiles/D211364E-6CA2-4A14-A422-0036134C9988.mobileprovision" /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/lishuai/Library/MobileDevice/Provisioning Profiles/D211364E-6CA2-4A14-A422-0036134C9988.mobileprovision" /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/embedded.mobileprovision
+cTouch /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo.xcent
+cCodeSign /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000050ED385D0000000000000110
+t1357723741
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+c0000000050F4C99E00000000000001A7
+t1358219678
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+c0000000050F4C99E00000000000001E5
+t1358219678
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050F4C9A90000000000322700
+t1358219689
+s3286784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050F4C9AB000000000062AD10
+t1358219691
+s6466832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050F4C9AB00000000000015F7
+t1358219691
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c0000000050F4C9B100000000000000C4
+t1358219697
+s196
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000050F4C9B100000000003596B0
+t1358219697
+s3511984
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000050F4C9B30000000000000E8D
+t1358219699
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050F4C9B400000000011BCDF0
+t1358219700
+s18599408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/Availability.h
+c0000000050F4C9C30000000000001B73
+t1358219715
+s7027
+
+N/Users/lishuai/Library/MobileDevice/Provisioning Profiles/D211364E-6CA2-4A14-A422-0036134C9988.mobileprovision
+c00000000520C3AAF000000000000E017
+t1376533167
+s57367
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo.xcent
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/AppDelegate.o
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/FirstView.o
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GDGuideVC.o
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GDGuideView.o
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GuideDemo.LinkFileList
+c00000000525FFB050000000000000598
+t1382021893
+s1432
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GuideImageView.o
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/SecondView.o
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/ThirdView.o
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/ViewController.o
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/main.o
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/PrecompiledHeaders/GuideDemo-Prefix-axegdywskwjsgaaobusjvigqwryz/GuideDemo-Prefix.pch.pth
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app.dSYM
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default.png
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default@2x.png
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/GuideDemo
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Info.plist
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/PkgInfo
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/ResourceRules.plist
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/bg.png
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/en.lproj/MainStoryboard_iPad.storyboardc
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/en.lproj/MainStoryboard_iPhone.storyboardc
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_1.png
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_2.png
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_3.png
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_4.png
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/login.png
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/logo.png
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/maidi.png
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/point.png
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/slogan.png
+t2
+s0
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/AppDelegate.m
+c00000000525FFA680000000000001185
+t1382021736
+s4485
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/Common/GDGuideVC.m
+c00000000525FF05A0000000000001492
+t1382019162
+s5266
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/Common/GDGuideView.m
+c00000000525F7D5500000000000004D0
+t1381989717
+s1232
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/Default-568h@2x.png
+c000000005094C3F800000000000048A2
+t1351926776
+s18594
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/Default.png
+c000000005094C3F8000000000000198C
+t1351926776
+s6540
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/Default@2x.png
+c000000005094C3F80000000000003EEB
+t1351926776
+s16107
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/GuideDemo-Prefix.pch
+c00000000525FA8CB0000000000000168
+t1382000843
+s360
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/bg.png
+c00000000525CEC25000000000001A0FD
+t1381821477
+s106749
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/guide_1.png
+c00000000525FF6D4000000000008CE3A
+t1382020820
+s577082
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/guide_2.png
+c00000000525FF6D7000000000007B84A
+t1382020823
+s505930
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/guide_3.png
+c00000000525FF6D900000000000978B0
+t1382020825
+s620720
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/guide_4.png
+c00000000525FF6DC00000000000B5F61
+t1382020828
+s745313
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/login.png
+c000000005211C9880000000000000C32
+t1376897416
+s3122
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/logo.png
+c000000005225DB680000000000002246
+t1378212712
+s8774
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/maidi.png
+c0000000050B19FFB0000000000085A0E
+t1353818107
+s547342
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/point.png
+c000000005225DB670000000000000D53
+t1378212711
+s3411
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/slogan.png
+c000000005225918C0000000000005532
+t1378193804
+s21810
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m
+c00000000525FF241000000000000181C
+t1382019649
+s6172
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/View/GuideImageView.m
+c00000000525FF9E900000000000005B1
+t1382021609
+s1457
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/View/SecondView.m
+c00000000525FEDD0000000000000048A
+t1382018512
+s1162
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/View/ThirdView.m
+c00000000525FE6990000000000000634
+t1382016665
+s1588
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/ViewController.m
+c00000000525F77F000000000000001EB
+t1381988336
+s491
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/en.lproj/InfoPlist.strings
+c00000000525F77F0000000000000002D
+t1381988336
+s45
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/en.lproj/MainStoryboard_iPad.storyboard
+c00000000525FB1BC000000000000061D
+t1382003132
+s1565
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/en.lproj/MainStoryboard_iPhone.storyboard
+c00000000525FB1BC0000000000000603
+t1382003132
+s1539
+
+N/Users/lishuai/workspace/GuideDemo/GuideDemo/main.m
+c00000000525F77F0000000000000014E
+t1381988336
+s334
+
+NGuideDemo/GuideDemo-Info.plist
+c00000000525FB23B0000000000000646
+t1382003259
+s1606
+
+CBuild AST from /Users/lishuai/workspace/GuideDemo/GuideDemo/AppDelegate.m
+r0
+
+CBuild AST from /Users/lishuai/workspace/GuideDemo/GuideDemo/Common/GDGuideVC.m
+r0
+
+CBuild AST from /Users/lishuai/workspace/GuideDemo/GuideDemo/Common/GDGuideView.m
+r0
+
+CBuild AST from /Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m
+r0
+
+CBuild AST from /Users/lishuai/workspace/GuideDemo/GuideDemo/View/GuideImageView.m
+r0
+
+CBuild AST from /Users/lishuai/workspace/GuideDemo/GuideDemo/View/SecondView.m
+r0
+
+CBuild AST from /Users/lishuai/workspace/GuideDemo/GuideDemo/View/ThirdView.m
+r0
+
+CBuild AST from /Users/lishuai/workspace/GuideDemo/GuideDemo/ViewController.m
+r0
+
+CBuild AST from /Users/lishuai/workspace/GuideDemo/GuideDemo/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies28bb45853210b841^35965c853210b841^---0#1#0#--18"Check dependencies36"DCA9249C-3496-4094-AB29-6FB12BEB0BCD-
+
+CCodeSign /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app
+s403714694.926865
+e403714695.094778
+r1
+xCodeSign
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"CodeSign DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.appcc63ed863210b841^b34318873210b841^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/0000000000000000^913"CodeSign DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app    cd /Users/lishuai/workspace/GuideDemo    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign f5bdd0d2bf3b0d0653405a853f2fa1b3f14ae230 --resource-rules=/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/ResourceRules.plist --entitlements /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo.xcent /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app36"56B032C3-A753-4C25-AA70-5301740143BF-
+
+CCompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/AppDelegate.o /Users/lishuai/workspace/GuideDemo/GuideDemo/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403714693.671630
+e403714693.776395
+r1
+xCompileC
+xDerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/AppDelegate.o
+x/Users/lishuai/workspace/GuideDemo/GuideDemo/AppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/lishuai/workspace/GuideDemo/GuideDemo/AppDelegate.m552eac853210b841^1ac1c6853210b841^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/AppDelegate.m0000000000000000^3684"CompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/AppDelegate.o GuideDemo/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lishuai/workspace/GuideDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-generated-files.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-own-target-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-all-target-headers.hmap -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-project-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources/armv7s -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources -F/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos -include /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/PrecompiledHeaders/GuideDemo-Prefix-axegdywskwjsgaaobusjvigqwryz/GuideDemo-Prefix.pch -MMD -MT dependencies -MF /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/AppDelegate.d --serialize-diagnostics /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/AppDelegate.dia -c /Users/lishuai/workspace/GuideDemo/GuideDemo/AppDelegate.m -o /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/AppDelegate.o36"26C8015A-168C-4911-A93E-DCC53C997A5E-
+
+CCompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/FirstView.o /Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403714693.671654
+e403714693.778475
+r1
+xCompileC
+xDerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/FirstView.o
+x/Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m:46:29: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    _label1.textAlignment = UITextAlignmentCenter;
+o                            ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here
+o    UITextAlignmentCenter,
+o    ^
+o/Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m:51:29: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    _label2.textAlignment = UITextAlignmentCenter;
+o                            ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here
+o    UITextAlignmentCenter,
+o    ^
+o/Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m:56:29: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    _label3.textAlignment = UITextAlignmentCenter;
+o                            ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here
+o    UITextAlignmentCenter,
+o    ^
+o/Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m:61:29: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    _label4.textAlignment = UITextAlignmentCenter;
+o                            ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here
+o    UITextAlignmentCenter,
+o    ^
+o4 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m0a2cac853210b841^4949c7853210b841^-2050"/Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m:46:29: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    _label1.textAlignment = UITextAlignmentCenter;                            ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here    UITextAlignmentCenter,    ^/Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m:51:29: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    _label2.textAlignment = UITextAlignmentCenter;                            ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here    UITextAlignmentCenter,    ^/Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m:56:29: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    _label3.textAlignment = UITextAlignmentCenter;                            ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here    UITextAlignmentCenter,    ^/Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m:61:29: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    _label4.textAlignment = UITextAlignmentCenter;                            ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here    UITextAlignmentCenter,    ^4 warnings generated.4(36%IDEClangDiagnosticActivityLogMessage2@66"'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0-403714693#18446744073709551615#0#1(2@37"'UITextAlignmentCenter' declared here-403714693#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@185"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^41#4#41#4#2094#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m0000000000000000^45#28#45#28#1105#0#12"Deprecations--2@66"'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0-403714693#18446744073709551615#0#1(2@37"'UITextAlignmentCenter' declared here-403714693#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@185"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^41#4#41#4#2094#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m0000000000000000^50#28#50#28#1312#0#12"Deprecations--2@66"'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0-403714693#18446744073709551615#0#1(2@37"'UITextAlignmentCenter' declared here-403714693#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@185"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^41#4#41#4#2094#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m0000000000000000^55#28#55#28#1522#0#12"Deprecations--2@66"'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0-403714693#18446744073709551615#0#1(2@37"'UITextAlignmentCenter' declared here-403714693#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@185"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^41#4#41#4#2094#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m0000000000000000^60#28#60#28#1731#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@77"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m0000000000000000^3682"CompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/FirstView.o GuideDemo/View/FirstView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lishuai/workspace/GuideDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-generated-files.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-own-target-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-all-target-headers.hmap -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-project-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources/armv7s -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources -F/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos -include /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/PrecompiledHeaders/GuideDemo-Prefix-axegdywskwjsgaaobusjvigqwryz/GuideDemo-Prefix.pch -MMD -MT dependencies -MF /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/FirstView.d --serialize-diagnostics /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/FirstView.dia -c /Users/lishuai/workspace/GuideDemo/GuideDemo/View/FirstView.m -o /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/FirstView.o36"6215E3BE-FA69-44E7-A833-F9BD5BC439A5-
+
+CCompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GDGuideVC.o /Users/lishuai/workspace/GuideDemo/GuideDemo/Common/GDGuideVC.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403714693.671714
+e403714693.785105
+r1
+xCompileC
+xDerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GDGuideVC.o
+x/Users/lishuai/workspace/GuideDemo/GuideDemo/Common/GDGuideVC.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/lishuai/workspace/GuideDemo/GuideDemo/Common/GDGuideVC.m0e2fac853210b841^61fcc8853210b841^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/Common/GDGuideVC.m0000000000000000^3686"CompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GDGuideVC.o GuideDemo/Common/GDGuideVC.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lishuai/workspace/GuideDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-generated-files.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-own-target-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-all-target-headers.hmap -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-project-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources/armv7s -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources -F/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos -include /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/PrecompiledHeaders/GuideDemo-Prefix-axegdywskwjsgaaobusjvigqwryz/GuideDemo-Prefix.pch -MMD -MT dependencies -MF /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GDGuideVC.d --serialize-diagnostics /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GDGuideVC.dia -c /Users/lishuai/workspace/GuideDemo/GuideDemo/Common/GDGuideVC.m -o /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GDGuideVC.o36"22D6F879-F231-4967-8E8F-6BE69FACCE3D-
+
+CCompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GDGuideView.o /Users/lishuai/workspace/GuideDemo/GuideDemo/Common/GDGuideView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403714693.714695
+e403714693.788884
+r1
+xCompileC
+xDerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GDGuideView.o
+x/Users/lishuai/workspace/GuideDemo/GuideDemo/Common/GDGuideView.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/lishuai/workspace/GuideDemo/GuideDemo/Common/GDGuideView.m0d1db7853210b841^1bf4c9853210b841^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/Common/GDGuideView.m0000000000000000^3698"CompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GDGuideView.o GuideDemo/Common/GDGuideView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lishuai/workspace/GuideDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-generated-files.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-own-target-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-all-target-headers.hmap -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-project-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources/armv7s -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources -F/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos -include /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/PrecompiledHeaders/GuideDemo-Prefix-axegdywskwjsgaaobusjvigqwryz/GuideDemo-Prefix.pch -MMD -MT dependencies -MF /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GDGuideView.d --serialize-diagnostics /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GDGuideView.dia -c /Users/lishuai/workspace/GuideDemo/GuideDemo/Common/GDGuideView.m -o /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GDGuideView.o36"B0091DBC-8325-40D7-A711-FCF221A9E00D-
+
+CCompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GuideImageView.o /Users/lishuai/workspace/GuideDemo/GuideDemo/View/GuideImageView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403714693.671677
+e403714693.763027
+r1
+xCompileC
+xDerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GuideImageView.o
+x/Users/lishuai/workspace/GuideDemo/GuideDemo/View/GuideImageView.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/lishuai/workspace/GuideDemo/GuideDemo/View/GuideImageView.m:30:32: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o        _label.textAlignment = UITextAlignmentCenter;
+o                               ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here
+o    UITextAlignmentCenter,
+o    ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/lishuai/workspace/GuideDemo/GuideDemo/View/GuideImageView.mfa27ac853210b841^2156c3853210b841^-539"/Users/lishuai/workspace/GuideDemo/GuideDemo/View/GuideImageView.m:30:32: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]        _label.textAlignment = UITextAlignmentCenter;                               ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here    UITextAlignmentCenter,    ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@66"'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0-403714693#18446744073709551615#0#1(2@37"'UITextAlignmentCenter' declared here-403714693#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@185"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^41#4#41#4#2094#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@82"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/View/GuideImageView.m0000000000000000^29#31#29#31#848#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@82"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/View/GuideImageView.m0000000000000000^3712"CompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GuideImageView.o GuideDemo/View/GuideImageView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lishuai/workspace/GuideDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-generated-files.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-own-target-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-all-target-headers.hmap -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-project-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources/armv7s -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources -F/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos -include /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/PrecompiledHeaders/GuideDemo-Prefix-axegdywskwjsgaaobusjvigqwryz/GuideDemo-Prefix.pch -MMD -MT dependencies -MF /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GuideImageView.d --serialize-diagnostics /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GuideImageView.dia -c /Users/lishuai/workspace/GuideDemo/GuideDemo/View/GuideImageView.m -o /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GuideImageView.o36"0E5019BC-5403-4E0F-A5D6-82356751BAA9-
+
+CCompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/SecondView.o /Users/lishuai/workspace/GuideDemo/GuideDemo/View/SecondView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403714693.671730
+e403714693.763352
+r1
+xCompileC
+xDerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/SecondView.o
+x/Users/lishuai/workspace/GuideDemo/GuideDemo/View/SecondView.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/lishuai/workspace/GuideDemo/GuideDemo/View/SecondView.me42cac853210b841^166cc3853210b841^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/View/SecondView.m0000000000000000^3688"CompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/SecondView.o GuideDemo/View/SecondView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lishuai/workspace/GuideDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-generated-files.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-own-target-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-all-target-headers.hmap -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-project-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources/armv7s -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources -F/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos -include /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/PrecompiledHeaders/GuideDemo-Prefix-axegdywskwjsgaaobusjvigqwryz/GuideDemo-Prefix.pch -MMD -MT dependencies -MF /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/SecondView.d --serialize-diagnostics /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/SecondView.dia -c /Users/lishuai/workspace/GuideDemo/GuideDemo/View/SecondView.m -o /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/SecondView.o36"96C68079-5B39-486A-8E41-424C09A0485E-
+
+CCompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/ThirdView.o /Users/lishuai/workspace/GuideDemo/GuideDemo/View/ThirdView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403714693.672123
+e403714693.774088
+r1
+xCompileC
+xDerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/ThirdView.o
+x/Users/lishuai/workspace/GuideDemo/GuideDemo/View/ThirdView.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/lishuai/workspace/GuideDemo/GuideDemo/View/ThirdView.m8a3dac853210b841^b729c6853210b841^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/View/ThirdView.m0000000000000000^3682"CompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/ThirdView.o GuideDemo/View/ThirdView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lishuai/workspace/GuideDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-generated-files.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-own-target-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-all-target-headers.hmap -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-project-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources/armv7s -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources -F/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos -include /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/PrecompiledHeaders/GuideDemo-Prefix-axegdywskwjsgaaobusjvigqwryz/GuideDemo-Prefix.pch -MMD -MT dependencies -MF /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/ThirdView.d --serialize-diagnostics /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/ThirdView.dia -c /Users/lishuai/workspace/GuideDemo/GuideDemo/View/ThirdView.m -o /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/ThirdView.o36"6F28AC70-30AF-4CBB-92B2-5122FC9B591D-
+
+CCompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/ViewController.o /Users/lishuai/workspace/GuideDemo/GuideDemo/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403714693.671703
+e403714693.757270
+r1
+xCompileC
+xDerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/ViewController.o
+x/Users/lishuai/workspace/GuideDemo/GuideDemo/ViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/lishuai/workspace/GuideDemo/GuideDemo/ViewController.md72fac853210b841^1cecc1853210b841^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/ViewController.m0000000000000000^3702"CompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/ViewController.o GuideDemo/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lishuai/workspace/GuideDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-generated-files.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-own-target-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-all-target-headers.hmap -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-project-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources/armv7s -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources -F/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos -include /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/PrecompiledHeaders/GuideDemo-Prefix-axegdywskwjsgaaobusjvigqwryz/GuideDemo-Prefix.pch -MMD -MT dependencies -MF /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/ViewController.d --serialize-diagnostics /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/ViewController.dia -c /Users/lishuai/workspace/GuideDemo/GuideDemo/ViewController.m -o /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/ViewController.o36"F45F0B86-C4E3-43DB-9E3D-7D8E6CA5444E-
+
+CCompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/main.o /Users/lishuai/workspace/GuideDemo/GuideDemo/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403714693.671670
+e403714693.713357
+r1
+xCompileC
+xDerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/main.o
+x/Users/lishuai/workspace/GuideDemo/GuideDemo/main.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/lishuai/workspace/GuideDemo/GuideDemo/main.ma62bac853210b841^c79db6853210b841^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/main.m0000000000000000^3642"CompileC DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/main.o GuideDemo/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lishuai/workspace/GuideDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-generated-files.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-own-target-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-all-target-headers.hmap -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-project-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources/armv7s -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources -F/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos -include /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/PrecompiledHeaders/GuideDemo-Prefix-axegdywskwjsgaaobusjvigqwryz/GuideDemo-Prefix.pch -MMD -MT dependencies -MF /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/main.dia -c /Users/lishuai/workspace/GuideDemo/GuideDemo/main.m -o /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/main.o36"C6516A7B-06CC-48AC-8A2A-CAED7C79DD5E-
+
+CCompileStoryboard /Users/lishuai/workspace/GuideDemo/GuideDemo/en.lproj/MainStoryboard_iPad.storyboard
+s403714693.924789
+e403714694.739326
+r1
+xCompileStoryboard
+x/Users/lishuai/workspace/GuideDemo/GuideDemo/en.lproj/MainStoryboard_iPad.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"CompileStoryboard GuideDemo/en.lproj/MainStoryboard_iPad.storyboardf5d6ec853210b841^7844bd863210b841^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/en.lproj/MainStoryboard_iPad.storyboard0000000000000000^911"CompileStoryboard GuideDemo/en.lproj/MainStoryboard_iPad.storyboard    cd /Users/lishuai/workspace/GuideDemo    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/en.lproj/MainStoryboard_iPad.storyboardc /Users/lishuai/workspace/GuideDemo/GuideDemo/en.lproj/MainStoryboard_iPad.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"B1D46E89-43A3-41A6-95D8-9BE69FFBFBE9-
+
+CCompileStoryboard /Users/lishuai/workspace/GuideDemo/GuideDemo/en.lproj/MainStoryboard_iPhone.storyboard
+s403714693.936181
+e403714694.736994
+r1
+xCompileStoryboard
+x/Users/lishuai/workspace/GuideDemo/GuideDemo/en.lproj/MainStoryboard_iPhone.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"CompileStoryboard GuideDemo/en.lproj/MainStoryboard_iPhone.storyboard7fc0ef853210b841^a4abbc863210b841^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/en.lproj/MainStoryboard_iPhone.storyboard0000000000000000^917"CompileStoryboard GuideDemo/en.lproj/MainStoryboard_iPhone.storyboard    cd /Users/lishuai/workspace/GuideDemo    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/en.lproj/MainStoryboard_iPhone.storyboardc /Users/lishuai/workspace/GuideDemo/GuideDemo/en.lproj/MainStoryboard_iPhone.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"EED79C93-4344-4E18-80EB-C678EEE3CCFB-
+
+CCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default-568h@2x.png GuideDemo/Default-568h@2x.png
+s403714693.878030
+e403714694.002210
+r1
+xCopyPNGFile
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default-568h@2x.png
+xGuideDemo/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default-568h@2x.png GuideDemo/Default-568h@2x.png66dce0853210b841^363e07863210b841^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/Default-568h@2x.png0000000000000000^666"CopyPNGFile "DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default-568h@2x.png" "GuideDemo/Default-568h@2x.png"    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/lishuai/workspace/GuideDemo/GuideDemo/Default-568h@2x.png" "/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default-568h@2x.png"36"5C926666-BF87-4433-A6BF-7CFD6E3DD260-
+
+CCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default.png GuideDemo/Default.png
+s403714693.878020
+e403714693.934857
+r1
+xCopyPNGFile
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default.png
+xGuideDemo/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default.png GuideDemo/Default.png27dbe0853210b841^663307863210b841^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/Default.png0000000000000000^626"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default.png GuideDemo/Default.png    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/lishuai/workspace/GuideDemo/GuideDemo/Default.png /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default.png36"A83C3EF3-6897-4E63-B5A5-BD2829853DCD-
+
+CCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default@2x.png GuideDemo/Default@2x.png
+s403714693.878026
+e403714693.983474
+r1
+xCopyPNGFile
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default@2x.png
+xGuideDemo/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default@2x.png GuideDemo/Default@2x.png23dce0853210b841^863b07863210b841^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/Default@2x.png0000000000000000^646"CopyPNGFile "DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default@2x.png" "GuideDemo/Default@2x.png"    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/lishuai/workspace/GuideDemo/GuideDemo/Default@2x.png" "/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Default@2x.png"36"97137C60-6027-463B-9620-49D88FA834DA-
+
+CCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/bg.png GuideDemo/Resources/Images/bg.png
+s403714693.878038
+e403714693.916296
+r1
+xCopyPNGFile
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/bg.png
+xGuideDemo/Resources/Images/bg.png
+o
+oWhile reading /Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/bg.png pngcrush caught libpng error:
+o   Not a PNG file..
+o
+oCould not find file: /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/bg.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/bg.png GuideDemo/Resources/Images/bg.png6edae0853210b841^172e07863210b841^-435"While reading /Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/bg.png pngcrush caught libpng error:   Not a PNG filCould not find file: /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/bg.pngCommand /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng emitted errors but did not return a nonzero exit code to indicate failure3(21%IDEActivityLogMessage2@112"While reading /Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/bg.png pngcrush caught libpng error:-403714693#18446744073709551615#0#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#17"CopyPNGFile Error--2@128"Could not find file: /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/bg.png-403714693#18446744073709551615#0#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#17"CopyPNGFile Error--2@178"Command /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng emitted errors but did not return a nonzero exit code to indicate failure-403714693#18446744073709551615#0#-2#--17"CopyPNGFile Error--0#0#0#-19%DVTDocumentLocation4@84"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/bg.png0000000000000000^640"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/bg.png GuideDemo/Resources/Images/bg.png    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/bg.png /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/bg.png36"43044C2C-F3BC-4B0A-983C-C6EAD2896336-
+
+CCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_1.png GuideDemo/Resources/Images/guide_1.png
+s403714693.948469
+e403714694.362527
+r1
+xCopyPNGFile
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_1.png
+xGuideDemo/Resources/Images/guide_1.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_1.png GuideDemo/Resources/Images/guide_1.png2ee3f2853210b841^a3ce5c863210b841^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/guide_1.png0000000000000000^660"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_1.png GuideDemo/Resources/Images/guide_1.png    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/guide_1.png /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_1.png36"95E39849-5100-4D2A-9204-9B37F6D68B25-
+
+CCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_2.png GuideDemo/Resources/Images/guide_2.png
+s403714693.963959
+e403714694.359956
+r1
+xCopyPNGFile
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_2.png
+xGuideDemo/Resources/Images/guide_2.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_2.png GuideDemo/Resources/Images/guide_2.png12daf6853210b841^67265c863210b841^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/guide_2.png0000000000000000^660"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_2.png GuideDemo/Resources/Images/guide_2.png    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/guide_2.png /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_2.png36"409ED37A-748D-46C9-8089-CBB73D0E4E04-
+
+CCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_3.png GuideDemo/Resources/Images/guide_3.png
+s403714693.984851
+e403714694.513101
+r1
+xCopyPNGFile
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_3.png
+xGuideDemo/Resources/Images/guide_3.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_3.png GuideDemo/Resources/Images/guide_3.pngb134fc853210b841^425a83863210b841^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/guide_3.png0000000000000000^660"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_3.png GuideDemo/Resources/Images/guide_3.png    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/guide_3.png /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_3.png36"7CE4111C-BE45-4CE7-9511-09D042BFC78D-
+
+CCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_4.png GuideDemo/Resources/Images/guide_4.png
+s403714694.007908
+e403714694.510790
+r1
+xCopyPNGFile
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_4.png
+xGuideDemo/Resources/Images/guide_4.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_4.png GuideDemo/Resources/Images/guide_4.png2ae402863210b841^dfc282863210b841^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/guide_4.png0000000000000000^660"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_4.png GuideDemo/Resources/Images/guide_4.png    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/guide_4.png /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/guide_4.png36"18C30C72-96A6-4E14-8D82-DACB06AEC336-
+
+CCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/login.png GuideDemo/Resources/Images/login.png
+s403714693.878053
+e403714693.923484
+r1
+xCopyPNGFile
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/login.png
+xGuideDemo/Resources/Images/login.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/login.png GuideDemo/Resources/Images/login.png2bdae0853210b841^d73007863210b841^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/login.png0000000000000000^652"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/login.png GuideDemo/Resources/Images/login.png    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/login.png /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/login.png36"B048DB7F-CCCC-4855-845D-527C82308468-
+
+CCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/logo.png GuideDemo/Resources/Images/logo.png
+s403714693.878070
+e403714693.947001
+r1
+xCopyPNGFile
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/logo.png
+xGuideDemo/Resources/Images/logo.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/logo.png GuideDemo/Resources/Images/logo.pngb5dde0853210b841^f43507863210b841^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/logo.png0000000000000000^648"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/logo.png GuideDemo/Resources/Images/logo.png    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/logo.png /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/logo.png36"4D050FC3-AAFA-4836-9714-0BDA932FFC9B-
+
+CCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/maidi.png GuideDemo/Resources/Images/maidi.png
+s403714693.878358
+e403714694.142986
+r1
+xCopyPNGFile
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/maidi.png
+xGuideDemo/Resources/Images/maidi.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/maidi.png GuideDemo/Resources/Images/maidi.png31ece0853210b841^a01825863210b841^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/maidi.png0000000000000000^652"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/maidi.png GuideDemo/Resources/Images/maidi.png    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/maidi.png /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/maidi.png36"85ACF0B3-D3B8-48C3-AC8D-0CA148ABBEB6-
+
+CCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/point.png GuideDemo/Resources/Images/point.png
+s403714693.915618
+e403714693.962633
+r1
+xCopyPNGFile
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/point.png
+xGuideDemo/Resources/Images/point.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/point.png GuideDemo/Resources/Images/point.pngb77aea853210b841^933807863210b841^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/point.png0000000000000000^652"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/point.png GuideDemo/Resources/Images/point.png    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/point.png /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/point.png36"2C99F0BF-AA39-4433-8478-C2B0B8F92753-
+
+CCopyPNGFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/slogan.png GuideDemo/Resources/Images/slogan.png
+s403714693.917505
+e403714694.046963
+r1
+xCopyPNGFile
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/slogan.png
+xGuideDemo/Resources/Images/slogan.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/slogan.png GuideDemo/Resources/Images/slogan.pngf1f4ea853210b841^b3990f863210b841^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/slogan.png0000000000000000^656"CopyPNGFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/slogan.png GuideDemo/Resources/Images/slogan.png    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/lishuai/workspace/GuideDemo/GuideDemo/Resources/Images/slogan.png /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/slogan.png36"C8FFBAE6-32B8-4D8D-B2F4-D3FB27D44A0D-
+
+CCopyStringsFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/en.lproj/InfoPlist.strings GuideDemo/en.lproj/InfoPlist.strings
+s403714693.877996
+e403714693.914304
+r1
+xCopyStringsFile
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/en.lproj/InfoPlist.strings
+xGuideDemo/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy GuideDemo/en.lproj/InfoPlist.strings30d9e0853210b841^202407863210b841^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/en.lproj/InfoPlist.strings0000000000000000^616"CopyStringsFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/en.lproj/InfoPlist.strings GuideDemo/en.lproj/InfoPlist.strings    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/en.lproj -- GuideDemo/en.lproj/InfoPlist.strings36"08BF76E6-9F81-4F60-86CC-990535FFFA11-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/ResourceRules.plist
+s403714693.373163
+e403714693.388879
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+xDerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/ResourceRules.plist59dc5f853210b841^c09263853210b841^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/ResourceRules.plist000000000080d041^784"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/ResourceRules.plist    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app36"C9A6CBD1-FDF0-4D9C-B8A2-189A8742EE51-
+
+CGenerateDSYMFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app.dSYM /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/GuideDemo
+s403714693.826238
+e403714693.870449
+r1
+xGenerateDSYMFile
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app.dSYM
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/GuideDemo
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Generate /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app.dSYM459fd3853210b841^90d9e9853210b841^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app.dSYM000000000080d041^714"GenerateDSYMFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app.dSYM DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/GuideDemo    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/GuideDemo -o /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app.dSYM36"FCAB9722-F10E-4763-ADD2-29DF6BF7A59C-
+
+CLd /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/GuideDemo normal armv7s
+s403714693.795761
+e403714693.819124
+r1
+xLd
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/GuideDemo
+xnormal
+xarmv7s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Link /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/GuideDemocdcdcb853210b841^0cb2d1853210b841^---0#0#0#--1202"Ld DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/GuideDemo normal armv7s    cd /Users/lishuai/workspace/GuideDemo    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos -F/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos -filelist /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/Objects-normal/armv7s/GuideDemo.LinkFileList -dead_strip -fobjc-link-runtime -miphoneos-version-min=6.0 -framework QuartzCore -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/GuideDemo36"5913E2A1-B2A3-4F62-B1E2-9D9752D54C50-
+
+CProcessInfoPlistFile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Info.plist GuideDemo/GuideDemo-Info.plist
+s403714693.373134
+e403714693.386339
+r1
+xProcessInfoPlistFile
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Info.plist
+xGuideDemo/GuideDemo-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process GuideDemo/GuideDemo-Info.plist48dc5f853210b841^3ae862853210b841^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/GuideDemo-Info.plist0000000000000000^850"ProcessInfoPlistFile DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Info.plist GuideDemo/GuideDemo-Info.plist    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GuideDemo/GuideDemo-Info.plist -genpkginfo /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/ResourceRules.plist -o /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/Info.plist36"FDF1A680-555B-4BDC-9992-4BEFB33BD8C7-
+
+CProcessPCH /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/PrecompiledHeaders/GuideDemo-Prefix-axegdywskwjsgaaobusjvigqwryz/GuideDemo-Prefix.pch.pth GuideDemo/GuideDemo-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403714693.396713
+e403714693.664605
+r1
+xProcessPCH
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/PrecompiledHeaders/GuideDemo-Prefix-axegdywskwjsgaaobusjvigqwryz/GuideDemo-Prefix.pch.pth
+xGuideDemo/GuideDemo-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile GuideDemo/GuideDemo-Prefix.pch97ad65853210b841^2923aa853210b841^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/lishuai/workspace/GuideDemo/GuideDemo/GuideDemo-Prefix.pch0000000000000000^3559"ProcessPCH DerivedData/GuideDemo/Build/Intermediates/PrecompiledHeaders/GuideDemo-Prefix-axegdywskwjsgaaobusjvigqwryz/GuideDemo-Prefix.pch.pth GuideDemo/GuideDemo-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lishuai/workspace/GuideDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-generated-files.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-own-target-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-all-target-headers.hmap -iquote /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo-project-headers.hmap -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources/armv7s -I/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/DerivedSources -F/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/PrecompiledHeaders/GuideDemo-Prefix-axegdywskwjsgaaobusjvigqwryz/GuideDemo-Prefix.pch.dia -c /Users/lishuai/workspace/GuideDemo/GuideDemo/GuideDemo-Prefix.pch -o /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/PrecompiledHeaders/GuideDemo-Prefix-axegdywskwjsgaaobusjvigqwryz/GuideDemo-Prefix.pch.pth -MMD -MT dependencies -MF /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/PrecompiledHeaders/GuideDemo-Prefix-axegdywskwjsgaaobusjvigqwryz/GuideDemo-Prefix.pch.d36"D7A80D1A-C70F-4FB7-BE20-2D5B8E7699EB-
+
+CProcessPCH /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Index/PrecompiledHeaders/GuideDemo-Prefix-dpmjrzhyfihbsadqlbqpmfzmbknj_ast/GuideDemo-Prefix.pch.pth GuideDemo/GuideDemo-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging "/Users/lishuai/Library/MobileDevice/Provisioning Profiles/D211364E-6CA2-4A14-A422-0036134C9988.mobileprovision" /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/embedded.mobileprovision
+s403714694.888251
+e403714694.891805
+r1
+xProcessProductPackaging
+x/Users/lishuai/Library/MobileDevice/Provisioning Profiles/D211364E-6CA2-4A14-A422-0036134C9988.mobileprovision
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection227"ProcessProductPackaging "/Users/lishuai/Library/MobileDevice/Provisioning Profiles/D211364E-6CA2-4A14-A422-0036134C9988.mobileprovision" DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/embedded.mobileprovision9679e3863210b841^7b4ce4863210b841^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/embedded.mobileprovision0000000000000000^736"ProcessProductPackaging "/Users/lishuai/Library/MobileDevice/Provisioning Profiles/D211364E-6CA2-4A14-A422-0036134C9988.mobileprovision" DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/embedded.mobileprovision    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/lishuai/Library/MobileDevice/Provisioning Profiles/D211364E-6CA2-4A14-A422-0036134C9988.mobileprovision" -o /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app/embedded.mobileprovision36"1E5FB0D2-4AB3-40E0-9C4A-FEA23BD5E056-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo.xcent
+s403714694.915363
+e403714694.918351
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection249"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo.xcent336aea863210b841^3b1aeb863210b841^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo.xcent000000000080d041^806"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo.xcent    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Intermediates/GuideDemo.build/Debug-iphoneos/GuideDemo.build/GuideDemo.xcent36"425A55A9-4DAD-4D8D-A055-C5C7882DFC65-
+
+CTouch /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app
+s403714694.900145
+e403714694.907485
+r1
+xTouch
+x/Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Touch /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.appe084e6863210b841^ce50e8863210b841^---0#0#0#--425"Touch DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app    cd /Users/lishuai/workspace/GuideDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/lishuai/workspace/GuideDemo/DerivedData/GuideDemo/Build/Products/Debug-iphoneos/GuideDemo.app36"7BC7D8BA-044E-4F70-B21D-6C74D5E78429-
+
